@@ -2,6 +2,12 @@
 
 ## An prediction of credit card fraud through machine learning. 
 
+A final project for Flatiron School by Alexander Benn
+
+Email: alexander.benn99@gmail.com
+LinkedIn: https://www.linkedin.com/in/alex-benn-13a308155/
+
+
 ### Project Goals
 
 The aim of this project was to see whether I would be able to predict the potential for credit card fraud from a Kaggle dataset https://www.kaggle.com/mlg-ulb/creditcardfraud
