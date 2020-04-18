@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/alex-benn-13a308155/
 
 The aim of this project was to see whether I would be able to predict the potential for credit card fraud from a Kaggle dataset https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-I was inspired to approach this project through my past experiences in the legal sphere, and my personal interests in criminal law, in which I have worked in the past. I wanted to apply what I have learned a Flatiron to a real world situation where I feel machine learning and data science can play a key, and important role. 
+I was inspired to approach this project through my past experiences in the legal sphere, and my personal interests in criminal law, in which I have worked previously. I wanted to apply what I have learned at Flatiron to a an area where I feel machine learning and data science can play a key, and important role. 
 
 ### The Current State of Fraud in the UK
 
