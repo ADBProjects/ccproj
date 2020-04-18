@@ -1,6 +1,6 @@
 # Catch Me If You Can
 
-## An prediction of credit card fraud through machine learning. 
+## A prediction of credit card fraud through machine learning. 
 
 A final project for Flatiron School by Alexander Benn
 
@@ -23,13 +23,13 @@ After the financial crash of 2008, credit card fraud decreased in the UK, potent
 
 There is, therefore, a pressing need to address this criminal activity as quickly, and efficiently as possible. 
 
-It must be noted as a first principl though that not all fraud is an 'open and shut' case. In many situations an activity may look like fraud, but is not, or may have a much more complex reason behind it. A good example is if someone is taken in by a phishing scam, and ends up making transactions that, at the surface level, appear to be fraudulent, despite that individual not committing an offence. This must be taken into account, and my models are only to inform, not to decide. 
+It must be noted as a first principle though that not all fraud is an 'open and shut' case. In many situations an activity may look like fraud, but is not, or may have a much more complex reason behind it. A good example is if someone is taken in by a phishing scam, and ends up making transactions that, at the surface level, appear to be fraudulent, despite that individual not committing an offence. This must be taken into account, and my models are only to inform, not to decide. 
 
 ### Machine Learning and Fraud
 
-As fraud encompassess patterns and quantifiable numeric activity, it is prudent to use a classifier machine learning model. This will identify whether an activity falls towards the 'fraudulent' or 'non-fraudulent' end of the spectrum. Through this, it is possible to uncover what constitutes a 'suspicious' activity, and offer it to the relevant authorities for further investigation.
+As fraud encompasses patterns and quantifiable numeric activity, it is prudent to use a classifier machine learning model. This will identify whether an activity falls towards the 'fraudulent' or 'non-fraudulent' end of the spectrum. Through this, it is possible to uncover what constitutes a 'suspicious' activity, and offer it to the relevant authorities for further investigation.
 
-My findings in this project produced a model of eventual 94% train accuracy, and 99% test accuracy. These numbers, whilst demonstrating a potential very solid model, have a couple of caveats. One is that I was using a very clean dataset that had no missing values, and was clearly provided for pracitcing such work. The second is that as there was a class imbalance of 99% - 1% (non-fraud to fraud), the model is potentially very good at identifying not-fraud. This in itself can be useful, but as always such models must be assessed from a cohesive, objective standpoint. 
+My findings in this project produced a model of eventual 94% train accuracy, and 99% test accuracy. These numbers, whilst demonstrating a potential very solid model, have a couple of caveats. One is that I was using a very clean dataset that had no missing values, and was clearly provided for practicing such work. The second is that as there was a class imbalance of 99% - 1% (non-fraud to fraud), the model is potentially very good at identifying not-fraud. This in itself can be useful, but as always such models must be assessed from a cohesive, objective standpoint. 
 
 ### Conclusions Drawn
 
